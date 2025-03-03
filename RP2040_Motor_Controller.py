@@ -247,5 +247,7 @@ def main():
 
             if command == "cmd_vel":
                 # write velocities to motors
+                pass
 
-main()
+if __name__ == '__main__':
+    main()
